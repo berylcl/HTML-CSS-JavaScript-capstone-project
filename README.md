@@ -35,7 +35,7 @@
 - Git & Github
 
 ## Live Demo
-[Live Demo Link]()
+[Live Demo Link](https://berylcl.github.io/HTML-CSS-JavaScript-capstone-project/)
 
 ## Video Walkthrough link
 [Video Walkthrough]()
