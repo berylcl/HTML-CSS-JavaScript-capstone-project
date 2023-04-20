@@ -38,7 +38,7 @@
 [Live Demo Link](https://berylcl.github.io/HTML-CSS-JavaScript-capstone-project/)
 
 ## Video Walkthrough link
-[Video Walkthrough](https://www.loom.com/share/196771a3d2a641b8a2190569c34ea736)
+[Video Walkthrough](https://www.loom.com/share/acc3246ff63b442c8cbb09749e30908f)
 
 ## Getting Started
 
