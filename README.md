@@ -35,10 +35,10 @@
 - Git & Github
 
 ## Live Demo
-[Live Demo Link]()
+[Live Demo Link](https://berylcl.github.io/HTML-CSS-JavaScript-capstone-project/)
 
 ## Video Walkthrough link
-[Video Walkthrough]()
+[Video Walkthrough](https://www.loom.com/share/acc3246ff63b442c8cbb09749e30908f)
 
 ## Getting Started
 
@@ -87,4 +87,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/berylcl/HTML-CSS-JavaScript-capstone-project/blob/main/LICENSE) licensed.
