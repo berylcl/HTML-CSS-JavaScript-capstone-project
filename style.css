@@ -510,6 +510,18 @@ ul {
   transition: 600ms;
 }
 
+.dark {
+  background-color: #0a090a;
+}
+
+.text-light {
+  color: #fff;
+}
+
+#footer-info3 {
+  font-size: 12px;
+}
+
 @media (min-width: 768px) {
   #hamburger-btn {
     display: none;
@@ -716,4 +728,8 @@ ul {
     margin-bottom: 20%;
     margin-left: 3%;
   }
+  .margin {
+  padding-top: 22%;
+  }
+
 }
