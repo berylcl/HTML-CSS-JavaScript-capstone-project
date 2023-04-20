@@ -54,8 +54,6 @@ const speakers = [
     img: 'images/ahmad alkurdy.png',
   },
 ];
-const referencePosition = document.getElementById('main-program');
-
 const createspeakerStructureHTML = () => {
   const speakersSection = document.createElement('section');
   speakersSection.classList.add('speakers');
@@ -77,7 +75,9 @@ const createspeakerStructureHTML = () => {
   speakersSection.appendChild(redUnderline);
   speakersSection.appendChild(speakersList);
 
-  referencePosition.parentNode.insertBefore(speakersSection, referencePosition.nextSibling);
+  const speakersSectionContainer = document.getElementById('speakers-section');
+
+  speakersSectionContainer.appendChild(speakersSection);
 };
 
 const createspeakerCard = () => {
